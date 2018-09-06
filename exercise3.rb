@@ -11,7 +11,7 @@ my_number = gets.chomp.to_i
 if my_number > 0
   puts "The number is positive, so good job winner!"
 else
-  puts "The number is negative, you did a terrible job loser!"
+  puts "The number is negative, you did a terrible job!"
 end
 
 puts "You have no choice, you must enter two numbers NOW!"
